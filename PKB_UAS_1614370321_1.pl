@@ -1,0 +1,14 @@
+putra(suwilo,jodi).
+putri(jodi,kandi).
+putra(kandi,wisnu).
+putra(jodi,suwardi).
+putri(suwardi,widya).
+putra(suwardi,boni).
+putri(suwilo,mirna).
+putra(mirna,dani).
+putra(suwilo,ferdinan).
+putri(ferdinan,cindi).
+putra(cindi,erianto).
+putri(cindi,jamila).
+putra(ferdinan,widodo).
+putri(widodo,winarni).
